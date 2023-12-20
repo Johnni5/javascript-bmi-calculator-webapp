@@ -8,6 +8,6 @@ style.css
 
 following:
 App will become a PWA
-- link: https://rb.gy/6056o4
+- link: https://rb.gy/nvuxc5
 
 Enjoy!
